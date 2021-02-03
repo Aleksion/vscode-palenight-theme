@@ -343,6 +343,13 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
+        "foreground": "#82AAFF"
+      }
+    },
+      {
+      "name": "Function name",
+      "scope": "entity.name.function.clojure",
+      "settings": {
         "foreground": "#C792EA"
       }
     },
