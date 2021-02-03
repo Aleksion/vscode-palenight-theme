@@ -4,6 +4,7 @@
   "maintainers": ["Olaolu Olawuyi <mrolaolu@gmail.com>"],
   "type": "dark",
   "semanticClass": "palenight-mild-contrast",
+  "semanticHighlighting": true,
   "colors": {
     "contrastActiveBorder": null,
     "contrastBorder": "#2C2F40",
@@ -342,7 +343,7 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#C792EA"
       }
     },
     {
